@@ -10,14 +10,13 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Queue
   - Double Ended Queue
   - Linked Lists
-  - [Heap](./data-structures/heap/)
 
 - Trees
   - Binary Search Tree
   - AVL Tree
   - Red-Black Tree
   - Priority Queue
-  - Heap
+  - [Heap](./data-structures/heap/)
   - Fibonacci Heap
   - Van Emde Boas Tree
   - Graphs
@@ -45,6 +44,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - MO’s Algorithm
   - Maximum Occurance In Given Range
   - Missing Number
+  - Generate Power Set of a set
 
 - String
   - Is Unique
@@ -89,6 +89,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Recursive Max Sub Array
 
 - Dynamic Programming
+  - [53](https://leetcode.com/problems/?search=53) [Maximum Sum of a Sub Array](./array/subrangemaxsum.cpp)
   - Longest Common Subsequence
   - Shortest Common Supersequence
   - Longest Increasing Subsequence
