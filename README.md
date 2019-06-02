@@ -10,6 +10,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Queue
   - Double Ended Queue
   - Linked Lists
+  - [Heap](./data-structures/heap/)
 
 - Trees
   - Binary Search Tree
@@ -60,7 +61,6 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Reverse Iterative
   - Reverse Recursive
   - Floyd's Cycle Detection
-  - Quicksort
 
 - Stack
   - Balanced Parentheses
