@@ -85,3 +85,7 @@ bool max_heap::leaf(int k) {
     }
     return false;
 }
+
+int max_heap::size() {
+    H.size();
+}
