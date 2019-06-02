@@ -80,8 +80,8 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Counting Sort
 
 - Search
-  - Linear Search
-  - Binary Search
+  - [Linear Search](./search/linearsearch.cpp)
+  - [Binary Search](./search/binarysearch.cpp)
 
 - Selection
 
@@ -134,7 +134,6 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 - Regular Expressions
 
 - Shell
-  - [Tenth Line](https://leetcode.com/problems/tenth-line)
-    - [Solution](./shell/tenthline.sh)
+  - [195](https://leetcode.com/problems/tenth-line) [Tenth Line](./shell/tenthline.sh)
 
 - SQL
