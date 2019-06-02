@@ -103,6 +103,13 @@ class max_heap {
          * Running Time: O(logn)
          */
         int deleteMax();
+
+        /*
+         * size returns the size of the heap
+         * 
+         * returns: the size, 0 if empty
+         */
+        int size();
 };
 
 #endif
