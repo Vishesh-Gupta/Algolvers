@@ -15,7 +15,7 @@ class max_heap {
          */
         bool leaf(int k);
         
-    protected:
+    public:
         /*
          * root() returns the root element of the heap
          * 
@@ -86,7 +86,6 @@ class max_heap {
          */
         void fix_down(int k);
 
-    public: 
         /*
          * insert(elem) inserts the element to the heap
          * 
@@ -110,6 +109,14 @@ class max_heap {
          * returns: the size, 0 if empty
          */
         int size();
+
+        /*
+         * heapify  builds the heap with fix_downs for
+         * an already given array in place
+         * 
+         * Running Time: θ(n)
+         */
+        void heapify();
 };
 
 #endif
