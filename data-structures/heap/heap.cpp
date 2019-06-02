@@ -89,3 +89,10 @@ bool max_heap::leaf(int k) {
 int max_heap::size() {
     H.size();
 }
+
+void max_heap::heapify(std::vector<int> arr){
+    int n = arr.size();
+    for (int i = n/2 - 1; i > 0; i--) {
+        fix_down(i);
+    }
+}
