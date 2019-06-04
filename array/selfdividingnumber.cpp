@@ -1,3 +1,5 @@
+#include <vector>
+
 class Solution {
 public:
     
@@ -14,7 +16,7 @@ public:
         return true;
     }
     
-    vector<int> selfDividingNumbers(int left, int right) {
+    std::vector<int> selfDividingNumbers(int left, int right) {
         std::vector<int> arr{};
         for (int i = left; i <= right; i++) {
             if (isSelfDivising(i)) {
