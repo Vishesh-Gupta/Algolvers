@@ -4,13 +4,13 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 
 ## Table of Contents
 
-- Data Structures
-  - Lists
-  - Stack
-  - Queue
-  - Double Ended Queue
-  - Linked Lists
+**Data Structures**
 
+- Lists
+- Stack
+- Queue
+- Double Ended Queue
+- Linked Lists
 - Trees
   - Binary Search Tree
   - AVL Tree
@@ -22,9 +22,9 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Graphs
   - Adjacency List
 
-## Algorithms
+**Algorithms**
   
-- Array
+- **Array**
   - Array Rotate
   - Move Zeros
   - Fisher–Yates Shuffle
@@ -46,7 +46,10 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Missing Number
   - Generate Power Set of a set
 
-- String
+- **Tree**
+  - [LC-938](https://leetcode.com/problems/range-sum-of-bst/) [Range Sum of BST](./tree/binary%20search%20tree/rangesumofbst.cpp)
+
+- **String**
   - Is Unique
   - Check Permutation
   - One Away
@@ -57,12 +60,12 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Knuth–Morris–Pratt
   - Boyer–Moore
 
-- Linked Lists
+- **Linked Lists**
   - Reverse Iterative
   - Reverse Recursive
   - Floyd's Cycle Detection
 
-- Stack
+- **Stack**
   - Balanced Parentheses
   - Infix to Postfix
   - Prefix to Infix
@@ -71,7 +74,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Postfix to Infix
   - Reverse a Stack
 
-- Sorting
+- **Sorting**
   - Insertion Sort
   - Heap Sort
   - [Merge Sort](./sorting/mergesort.cpp)
@@ -79,17 +82,17 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Bubble Sort
   - Counting Sort
 
-- Search
+- **Search**
   - [Linear Search](./search/linearsearch.cpp)
   - [Binary Search](./search/binarysearch.cpp)
 
-- Selection
+- **Selection**
 
-- Divide and Conquer
+- **Divide and Conquer**
   - Recursive Max Sub Array
 
-- Dynamic Programming
-  - [53](https://leetcode.com/problems/?search=53) [Maximum Sum of a Sub Array](./array/subrangemaxsum.cpp)
+- **Dynamic Programming**
+  - [LC-53](https://leetcode.com/problems/?search=53) [Maximum Sum of a Sub Array](./array/subrangemaxsum.cpp)
   - Longest Common Subsequence
   - Shortest Common Supersequence
   - Longest Increasing Subsequence
@@ -106,7 +109,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Rod Cut
   - Coin Change Problem
 
-- Greedy
+- **Greedy**
   - Minimum product subset of an array
   - Maximum product subset of an array
   - Maximize the sum of arr[i]*i
@@ -117,23 +120,23 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Huffman Decoding
   - Water Connection Problem
 
-- Graph
+- **Graph**
   - Breadth First Search
   - Number of islands
   - Software Engineering
 
-- Design Patterns
+- **Design Patterns**
   - Singleton
   - Observer
   - Mediator
   - Prototype
   - Command
 
-- Functional Programming
+- **Functional Programming**
 
-- Regular Expressions
+- **Regular Expressions**
 
-- Shell
-  - [195](https://leetcode.com/problems/tenth-line) [Tenth Line](./shell/tenthline.sh)
+- **Shell**
+  - [LC-195](https://leetcode.com/problems/tenth-line) [Tenth Line](./shell/tenthline.sh)
 
-- SQL
+- **SQL**
