@@ -45,6 +45,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Maximum Occurance In Given Range
   - Missing Number
   - Generate Power Set of a set
+  - [LC-728](https://leetcode.com/problems/self-dividing-numbers/) [Self Dividing Numbers](./array/selfdividingnumber.cpp)
 
 - **Tree**
   - [LC-938](https://leetcode.com/problems/range-sum-of-bst/) [Range Sum of BST](./tree/binary%20search%20tree/rangesumofbst.cpp)
