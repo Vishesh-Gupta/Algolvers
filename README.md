@@ -50,6 +50,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - [LC-896](https://leetcode.com/problems/monotonic-array/) [Monotonic Array](./array/monotonic.cpp)
 
 - **Tree**
+  - [LC-700](https://leetcode.com/problems/search-in-a-binary-search-tree/) [Search in a Binary Search Tree](./tree/binary%20tree/binary%20search%20tree/searchinvst.cpp)
   - [LC-938](https://leetcode.com/problems/range-sum-of-bst/) [Range Sum of BST](./tree/binary%20search%20tree/rangesumofbst.cpp)
 
 - **String**
