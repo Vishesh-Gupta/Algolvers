@@ -47,6 +47,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Generate Power Set of a set
   - [LC-217](https://leetcode.com/problems/contains-duplicate/) [Contains Duplicates](./array/containsduplicate.js)
   - [LC-728](https://leetcode.com/problems/self-dividing-numbers/) [Self Dividing Numbers](./array/selfdividingnumber.cpp)
+  - [LC-867](https://leetcode.com/problems/transpose-matrix/) [Transpose Matrix](./matrices/transpose.cpp)
   - [LC-896](https://leetcode.com/problems/monotonic-array/) [Monotonic Array](./array/monotonic.cpp)
 
 - **Tree**
