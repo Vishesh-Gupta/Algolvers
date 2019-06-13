@@ -49,6 +49,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - [LC-728](https://leetcode.com/problems/self-dividing-numbers/) [Self Dividing Numbers](./array/selfdividingnumber.cpp)
   - [LC-867](https://leetcode.com/problems/transpose-matrix/) [Transpose Matrix](./matrices/transpose.cpp)
   - [LC-896](https://leetcode.com/problems/monotonic-array/) [Monotonic Array](./array/monotonic.cpp)
+  - [LC-961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [N-Repeated Element in Size 2N Array](./array/n-repeatedelem.cpp)
 
 - **Tree**
   - LC-96 Unique Binary Search Tree
