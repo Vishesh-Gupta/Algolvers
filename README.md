@@ -151,6 +151,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - [LC-509](https://leetcode.com/problems/fibonacci-number/) [Fibonacci Number](./math/fibonaccinumber.cpp)
 
 - **Shell**
+  - [LC-192](https://leetcode.com/problems/word-frequency/) [Word Frequency](./shell/wordfrequency.sh) 
   - [LC-195](https://leetcode.com/problems/tenth-line) [Tenth Line](./shell/tenthline.sh)
   - [LC-193](https://leetcode.com/problems/valid-phone-numbers/) [Valid Phone Numbers](./shell/validphonenumber.sh)
 
