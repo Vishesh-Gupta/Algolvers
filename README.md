@@ -152,5 +152,6 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 
 - **Shell**
   - [LC-195](https://leetcode.com/problems/tenth-line) [Tenth Line](./shell/tenthline.sh)
+  - [LC-193](https://leetcode.com/problems/valid-phone-numbers/) [Valid Phone Numbers](./shell/validphonenumber.sh)
 
 - **SQL**
