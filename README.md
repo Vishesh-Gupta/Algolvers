@@ -52,11 +52,11 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - [LC-961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [N-Repeated Element in Size 2N Array](./array/n-repeatedelem.cpp)
 
 - **Tree**
-  - [LC-94.](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Binary Tree Inorder Traversal](./tree/binary%20tree/inordertraversal.js)
+  - [LC-94.](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Binary Tree Inorder Traversal (Recursive)](./tree/binary%20tree/inordertraversal.js) Binary Tree Inorder Traversal (Iterative) 
   - LC-96 Unique Binary Search Tree
   - [LC-101.](https://leetcode.com/problems/symmetric-tree/) [Symmetric Tree](./tree/binary%20tree/symmetric-tree.cpp)
   - [LC-104.](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Maximum Depth of Binary Tree](./tree/binary%20tree/maxdepth-tree.js)
-  - [LC-145.](https://leetcode.com/problems/binary-tree-postorder-traversal/) [Binary Tree Postorder Traversal](./tree/binary%20tree/postordertraversal.js)
+  - [LC-145.](https://leetcode.com/problems/binary-tree-postorder-traversal/) [Binary Tree Postorder Traversal (Recursive)](./tree/binary%20tree/postordertraversal.js) Binary Tree Post Order Traversal (Iterative)
   - [LC-617.](https://leetcode.com/problems/merge-two-binary-trees/) [Merge Two Binary Trees](./tree/binary%20tree/symmetric-tree.cpp)
   - [LC-700.](https://leetcode.com/problems/search-in-a-binary-search-tree/) [Search in a Binary Search Tree](./tree/binary%20tree/binary%20search%20tree/searchinvst.cpp)
   - [LC-938.](https://leetcode.com/problems/range-sum-of-bst/) [Range Sum of BST](./tree/binary%20search%20tree/rangesumofbst.cpp)
