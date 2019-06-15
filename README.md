@@ -4,7 +4,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 
 ## Table of Contents
 
-**Data Structures**
+### **Data Structures**
 
 - Lists
 - Stack
@@ -22,7 +22,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Graphs
   - Adjacency List
 
-**Algorithms**
+### **Algorithms**
   
 - **Array**
   - Array Rotate
@@ -163,3 +163,6 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - [LC-193.](https://leetcode.com/problems/valid-phone-numbers/) [Valid Phone Numbers](./shell/validphonenumber.sh)
 
 - **SQL**
+  - [LC-595.](https://leetcode.com/problems/big-countries) [Big Countries](./sql/bigcountries.sql)
+  - [LC-620](https://leetcode.com/problems/not-boring-movies/) [Not Boring Movies](./sql/notboringmovies.sql)
+  - [LC-627.](https://leetcode.com/problems/swap-salary/) [Swap Salary](./sql/swapsalary.sql)
