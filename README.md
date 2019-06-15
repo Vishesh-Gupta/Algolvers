@@ -57,6 +57,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - LC-98. Validate Binay Search Tree
   - [LC-101.](https://leetcode.com/problems/symmetric-tree/) [Symmetric Tree](./tree/binary%20tree/symmetric-tree.cpp)
   - [LC-104.](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Maximum Depth of Binary Tree](./tree/binary%20tree/maxdepth-tree.js)
+  - [LC-144.](https://leetcode.com/problems/binary-tree-preorder-traversal/) [Binary Tree Preorder Traversal (Recursive)](./tree/binary%20tree/preordertraversal.js) Binary Tree PreOrder Traversal (Iterative)
   - [LC-145.](https://leetcode.com/problems/binary-tree-postorder-traversal/) [Binary Tree Postorder Traversal (Recursive)](./tree/binary%20tree/postordertraversal.js) Binary Tree Post Order Traversal (Iterative)
   - [LC-589.](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) [N-ary Tree Preorder Traversal (Recursive)](./tree/n-ary%20tree/preordertraversal.js) N-ary Tree Preorder Traversal (Iterative)
   - [LC-590.](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) [N-ary Tree Postorder Traversal (Recursive)](./tree/n-ary%20tree/preordertraversal.js) N-ary Tree Postorder Traversal (Iterative)
