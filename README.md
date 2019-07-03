@@ -102,6 +102,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 - **Search**
   - [Linear Search](./search/linearsearch.cpp)
   - [Binary Search](./search/binarysearch.cpp)
+  - [Interpolation Search](./search/interpolationsearch.cpp)
 
 - **Selection**
 

@@ -27,4 +27,16 @@ int linear_search(std::vector<int> A, int k);
  */
 int binary_search(std::vector<int> A, int k);
 
+/*
+ * interpolation_search find the index of the element k
+ * 
+ * @param A: vector of ints
+ * @param k: element to be found
+ * 
+ * returns: the index of element k, otherwise -1
+ * 
+ * Running Time: θ(n)
+ */
+int interpolation_search(std::vector<int> A, int k);
+
 #endif
