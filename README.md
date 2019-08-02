@@ -83,7 +83,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Floyd's Cycle Detection
 
 - **Stack**
-  - Balanced Parentheses
+  - [Balanced Parentheses](./stack/balanced_parenthesis.cpp)
   - Infix to Postfix
   - Prefix to Infix
   - Prefix to Postfix
