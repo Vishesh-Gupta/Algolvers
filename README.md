@@ -12,15 +12,22 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
 - Double Ended Queue
 - Linked Lists
 - Trees
-  - Binary Search Tree
-  - AVL Tree
-  - Red-Black Tree
+  - [Binary Search Tree](./data-structures/tree/bst/)
+  - [AVL Tree](./data-structures/tree/avl/)
+  - [Red-Black Tree](./data-structures/tree/red=black-tree/)
   - Priority Queue
   - [Heap](./data-structures/heap/)
   - Fibonacci Heap
   - Van Emde Boas Tree
   - Graphs
   - Adjacency List
+- RangeQueries
+  - Quadtree
+  - kd-Tree
+  - RangeTree
+- Hashing
+  - Cuckoo Hashing 
+  - 
 
 ### **Algorithms**
   
@@ -89,7 +96,7 @@ Algolvers (acronym for Algorithm Solvers) is a set of solutions to multiple algo
   - Prefix to Postfix
   - Postfix to Prefix
   - Postfix to Infix
-  - Reverse a Stack
+  - [Reverse a Stack](./stack/reverse.cpp)
 
 - **Sorting**
   - Insertion Sort
